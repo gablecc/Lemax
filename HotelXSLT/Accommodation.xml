@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="AccommodationDisplay.xsl"?>
+<Hotel>
+	<Name>Hotel Lemax</Name>
+	<NumberOfStars>5</NumberOfStars>
+	<PhotoList>
+		<Photo>
+			<Url>http://demotest.itravelsoftware.com/fotografije_itravel/7/717_636077307841478526.jpg</Url>
+		</Photo>
+		<Photo>
+			<Url>http://demotest.itravelsoftware.com/fotografije_itravel/7/715_636077306767263022.jpg</Url>
+		</Photo>
+		<Photo>
+			<Url>http://demotest.itravelsoftware.com/fotografije_itravel/7/714_636077303419440444.jpg</Url>
+		</Photo>
+		<Photo>
+			<Url>http://demotest.itravelsoftware.com/fotografije_itravel/7/539_636064349608545756.jpg</Url>
+		</Photo>
+	</PhotoList>
+	<RoomList>
+		<Room>
+			<Name>Double room</Name>
+			<Price>100 EUR</Price>
+			<AttributeList>
+				<Attribute>
+					<Name>Deluxe</Name>
+				</Attribute>
+				<Attribute>
+					<Name>Half board</Name>
+				</Attribute>
+			</AttributeList>
+	</Room>
+		<Room>
+			<Name>Triple room</Name>
+			<Price>200 EUR</Price>
+			<AttributeList>
+				<Attribute>
+					<Name>Deluxe</Name>
+				</Attribute>
+				<Attribute>
+					<Name>Full board</Name>
+				</Attribute>
+				<Attribute>
+					<Name>Jacuzzi</Name>
+				</Attribute>
+			</AttributeList>
+		</Room>
+	</RoomList>
+</Hotel>
